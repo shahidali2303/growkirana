@@ -79,6 +79,8 @@ body {
   overflow-x: hidden !important;
   font-size: 15px;
   color: #535353;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
 }
 
 h1,
