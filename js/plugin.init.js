@@ -77,4 +77,3 @@ $("body").niceScroll({
   zindex: 999,
   horizrailenabled: false,
 });
-$("body").getNiceScroll().remove();
