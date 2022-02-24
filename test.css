@@ -26,7 +26,7 @@
 
 .btn.btn-custom {
   color: #ffffff;
-  background: #a0cc42;
+  background: #23d1b7;
 }
 
 .btn.btn-custom:hover,
@@ -99,7 +99,7 @@ h6,
 }
 
 ::selection {
-  background: #a0cc42;
+  background: #6c757d;
   color: #ffffff;
 }
 
@@ -366,7 +366,7 @@ p {
 }
 
 .navbar-custom .navbar-toggler {
-  color: #ffffff;
+  color: rgb(11 18 47);
   font-size: 30px;
   padding: 0px;
 }
@@ -455,7 +455,7 @@ p {
 
 .login-button {
   color: #ffffff;
-  background-color: #a0cc42;
+  background-color: #23d1b7;
   text-transform: uppercase;
   font-size: 13px;
   transition: all 0.5s;
@@ -612,9 +612,9 @@ p {
   border-color: #adb5bd;
 }
 
-/* .list-inline-item:not(:last-child) {
+.list-inline-item:not(:last-child) {
   margin-right: 3px;
-} */
+}
 
 .about-app .title {
   font-size: 20px;
@@ -686,11 +686,11 @@ p {
   right: -12px;
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
   .services .core-service-img {
     display: none;
   }
-} */
+}
 
 @media (min-width: 200px) and (max-width: 767px) {
   .services .core-service .fea-right {
@@ -893,11 +893,11 @@ p {
 
 .testi-review .testimonial .content-review .review {
   font-size: 17px;
-  color: black;
+  color: #adb5bd;
 }
 
 .testi-review img {
-  border-radius: 15px;
+  height: 85px;
 }
 
 .owl-theme .owl-controls .owl-page span {
@@ -1109,17 +1109,4 @@ p {
 .navy {
   padding-right: 15px;
   padding-left: 15px;
-}
-.whatsapp-footer {
-  width: 40px;
-  margin-right: 8px;
-}
-.fotter-2 {
-  margin-top: 50px;
-}
-.footer-text h1 {
-  color: white;
-}
-.f-text {
-  color: #a0cc42;
 }
